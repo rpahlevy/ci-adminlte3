@@ -1,0 +1,10 @@
+{
+	"description": "Codeigniter AdminLTE3",
+	"name": "rpahlevy/ci-adminlte3",
+	"type": "project",
+	"homepage": "https://github.com/rpahlevy/ci-adminlte3",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.7"
+	}
+}
