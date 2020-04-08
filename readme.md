@@ -11,6 +11,7 @@
 3. No `index.php` on URI + the `.htaccess`
 4. Helper 'url' is ON
 5. Custom 404 page
+6. Login page
 
 ## How to Use
 
